@@ -1,0 +1,4 @@
+/*
+    Type that can be used for Dynamic typing in the library
+
+*/
